@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .btn1 {
+  margin-left:auto /* Ensures the button shifts to the right side }*/
+
+.welcome{
+  background-color: #13d2eb; /* Change this to your desired background color */
+  height: 100vh; /* Full viewport height */
+  display: flex; /* Flexbox for centering */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+}
+.btn1{
+  margin-left: 1010%;
+  margin-bottom: 1300%;
+}
+.login{
+  background-color:plum; /* Change this to your desired background color */
+  height: 100vh; /* Full viewport height */
+   display: flex; /* Flexbox for centering */
+   justify-content: center; /*Center content horizontally */
+  align-items: center; /*Center content vertically */ 
+ /* font-size :large; */
+}
+.loginheader{
+  margin-bottom: 40%;
+  display: inline;
+}
+.todo{
+  background-color: pink;
+  height: 100vh;
+}
