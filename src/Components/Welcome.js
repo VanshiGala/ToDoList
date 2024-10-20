@@ -6,7 +6,7 @@ import { Button } from 'reactstrap';
 const Welcome = () => {
   return (
     <div className='welcome'>
-      <h1>Welcome to the App!!!!</h1>
+      <h1>!!!!Welcome to the App!!!!</h1>
       <header>
         <Link to="/login">
         <div>
